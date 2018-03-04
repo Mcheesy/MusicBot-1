@@ -1,4 +1,4 @@
-token=
+token=NDE5NzQ0MTU4MzA4MTA2MjQw.DX05jw.YsBCvhkM4ciF7aagjuo7SdUOIus
 This token changes on page refresh and is valid unless manually regenerated below.
 Generate a new token?
 Public Bot
