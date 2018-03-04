@@ -1,2 +1,2 @@
-token=NDE5NzQ0MTU4MzA4MTA2MjQw.DX05jw.YsBCvhkM4ciF7aagjuo7SdUOIus
+token=
 owner=330726065280385025
