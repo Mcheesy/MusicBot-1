@@ -1,5 +1,13 @@
-token=MzQzNDgxNzA4ODQwMjIyNzMy.DHHXiQ.vFNUq2rHMRVdqfK1Mh4DiLUBZ4c
-owner=343481708840222732
+token=NDE5NzQ0MTU4MzA4MTA2MjQw.DX05jw.YsBCvhkM4ciF7aagjuo7SdUOIus
+This token changes on page refresh and is valid unless manually regenerated below.
+Generate a new token?
+Public Bot
+Public bots can be added by anyone. When unchecked only you can join this bot to servers.
+Require OAuth2 Code Grant
+If your application requires multiple scopes then you may need the full OAuth2 flow to ensure a bot doesn't join before your application is granted a token.
+Learn more about bot users.
+
+owner=330726065280385025
 prefix=!
 game=shoemakk.com/bot
 stayinchannel=true
